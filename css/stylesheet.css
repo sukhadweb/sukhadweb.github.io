@@ -185,11 +185,11 @@ p {
 	}
 
 	.logo img {
-		width: 300px; /* Change image size for desktop */
+		width: 150px; /* Change image size for desktop */
 	}
 
 	.logo {
-		margin-bottom: 28px;
+		margin-bottom: 25px;
 	}
 	.img {
 		width: 100%;
