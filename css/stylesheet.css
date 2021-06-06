@@ -43,7 +43,7 @@ p {
 }
 
 .logo img {
-	width: 100px; /* Change image size for mobile */
+	width: 50px; /* Change image size for mobile */
 	-webkit-animation-name: logo;
 	        animation-name: logo;
 	-webkit-animation-duration: 5s;
